@@ -14,7 +14,7 @@ export const Footer = () => {
         className="max-w-5xl mx-auto"
       >
         <p>© {currentYear} Riccardo Mori. Tutti i diritti riservati.</p>
-        <p className="mt-2">Elettricista Professionale - Soluzioni Illuminotecniche - P.IVA: 12345678901</p>
+        <p className="mt-2">Elettricista Professionale - Soluzioni Illuminotecniche - MRORCR76H01C2G1I</p>
         <p className="mt-2">In collaborazione con <span className="text-cv-gold">AgTechDesigne</span> - agtechdesigne@gmail.com</p>
       </motion.div>
     </footer>
