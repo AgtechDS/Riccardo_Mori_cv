@@ -17,18 +17,13 @@ export const Skills = () => {
   ];
 
   const education = [
-    { title: "Diploma di Perito Elettrotecnico", institution: "ITIS A. Volta", year: "2003" },
-    { title: "Certificazione Impianti Elettrici", institution: "Ente Nazionale Italiano di Unificazione", year: "2005" },
-    { title: "Corso Specialistico Domotica", institution: "Centro Formazione Tecnica Milano", year: "2010" },
-    { title: "Certificazione Sicurezza sul Lavoro", institution: "INAIL", year: "2013" },
-    { title: "Corso Avanzato PLC", institution: "Siemens Academy", year: "2018" }
+    { title: "Diploma di Perito Elettrotecnico", institution: "tramello", year: "2003" },
   ];
 
   const languages = [
     { name: "Italiano", level: "Madrelingua" },
     { name: "Inglese", level: "Intermedio (B2)" },
-    { name: "Francese", level: "Base (A2)" }
-  ];
+     ];
 
   return (
     <section className="py-20 px-6 md:px-10 bg-white">
