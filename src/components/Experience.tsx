@@ -14,40 +14,36 @@ interface ExperienceItemProps {
 export const Experience = () => {
   const experiences = [
     {
-      title: "Capo Elettricista",
-      company: "Elettrotek S.r.l.",
-      period: "2015 - Presente",
+      title: "Responsabile cantiere",
+      company: "Mazzocchi elettrica dal 2021 al 2023.",
+      period: "dal 2021 al 2023",
       description: "Supervisione e coordinamento di progetti elettrici complessi in ambito industriale e commerciale.",
       achievements: [
-        "Gestione di un team di 5 elettricisti",
-        "Riduzione dei tempi di completamento del 20%",
+        "Gestione di un team di 2 elettricisti",
+        "",
         "Implementazione di sistemi domotici avanzati",
         "Sviluppo di soluzioni personalizzate per clienti premium"
       ]
     },
     {
-      title: "Elettricista Senior",
-      company: "ImpiElect Milano",
-      period: "2008 - 2015",
-      description: "Installazione e manutenzione di impianti elettrici per clienti residenziali e commerciali.",
+ title: "Elettricista Senior",
+      company: "RM elettro service",
+      period: "dal 2009 al 2021",
+      description: "Installazione e manutenzione di impianti elettrici residenziali e grandi impianti commerciali.",
       achievements: [
-        "Specializzazione in automazione industriale",
-        "Formazione di personale junior",
-        "Gestione di oltre 200 progetti",
-        "Zero incidenti di sicurezza in 7 anni"
+        "Installazione Impianti Museo XNL ( via antafranca Piacenza (IT) )",
+        "Specializzazione in impianti a risparmio energetico",
+        "Collaborazione con architetti per progetti di design",
       ]
     },
     {
       title: "Elettricista",
-      company: "Electra Impianti",
-      period: "2003 - 2008",
+      company: "SB impianti elettrici",
+      period: "dal 99 al 2009",
       description: "Installazione e manutenzione di impianti elettrici residenziali e piccoli impianti commerciali.",
       achievements: [
-        "Acquisizione di competenze in sistemi di sicurezza",
-        "Specializzazione in impianti a risparmio energetico",
-        "Collaborazione con architetti per progetti di design",
-        "Ottimizzazione dei costi di materiali del 15%"
-      ]
+        "Installazione Impianti Civili",
+        "Specializzazione in impianti a risparmio energetico",      ]
     }
   ];
 
